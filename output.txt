@@ -1,0 +1,9 @@
+Earning Per Day:
+------------------
+
+There are 4 Rentees in total.
+
+Average earning per day based on numbers of rentees is $3.03
+
+Total earning per day is $12.13.
+
